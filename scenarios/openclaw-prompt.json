@@ -1,0 +1,55 @@
+{
+  "repository": "openclaw/openclaw",
+  "latest_release": {
+    "version": "v2026.9.7",
+    "tag": "c074824",
+    "author": "github-actions",
+    "title": "openclaw 2026.9.7",
+    "published": "2 days ago",
+    "marked_latest": true,
+    "release_notes_summary": "OpenClaw v2026.9.7 includes 518 direct commits and 2,818 pull requests across 334 contributors. The release notes and changelog are provided in two formats: formatted with expandable sections for human reading, and plain Markdown for AI agents and tools.",
+    "assets": [
+      {
+        "name": "latest.json",
+        "download_url": "https://github.com/openclaw/openclaw/releases/download/v2026.9.7/latest.json"
+      },
+      {
+        "name": "OpenClaw-2026.9.7-arm64.dmg",
+        "download_url": "https://github.com/openclaw/openclaw/releases/download/v2026.9.7/OpenClaw-2026.9.7-arm64.dmg"
+      },
+      {
+        "name": "OpenClaw-2026.9.7-arm64.dSYM.zip",
+        "download_url": "https://github.com/openclaw/openclaw/releases/download/v2026.9.7/OpenClaw-2026.9.7-arm64.dSYM.zip"
+      },
+      {
+        "name": "OpenClaw-2026.9.7-arm64.zip",
+        "download_url": "https://github.com/openclaw/openclaw/releases/download/v2026.9.7/OpenClaw-2026.9.7-arm64.zip"
+      }
+    ]
+  },
+  "answer": "The current release is openclaw 2026.9.7 (tag: v2026.9.7, commit: c074824), marked as Latest.",
+  "run": {
+    "status": "success",
+    "reason": null,
+    "source_url": "https://github.com/openclaw/openclaw/releases/tag/v2026.9.7",
+    "steps": 9,
+    "model_calls": 23,
+    "model_usage": {
+      "gemini-3.5-flash": 3,
+      "gemini-flash-latest": 5,
+      "gemini-2.5-flash": 1,
+      "gemini-3.7-flash": 1
+    },
+    "grounding": "som",
+    "duration_s": 276.2,
+    "confidence": "high",
+    "extractor_issues": "Only 4 of the 19 assets are visible in the viewport.",
+    "verification": {
+      "version": true,
+      "tag": true,
+      "author": true,
+      "repository": true
+    },
+    "trace_dir": "runs/20261002-030502"
+  }
+}

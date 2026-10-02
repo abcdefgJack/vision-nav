@@ -1,0 +1,62 @@
+[
+  {
+    "scenario": "openclaw-som",
+    "exit": 0,
+    "status": "success",
+    "steps": 5,
+    "model_calls": 11,
+    "seconds": 96,
+    "truth": {
+      "version": "v2026.9.7",
+      "sha": "c074824a27c96d3983043f9eeb33823cd1772d8c",
+      "author": "github-actions[bot]"
+    },
+    "grade": {
+      "version": true,
+      "tag": true,
+      "author": true,
+      "pass": true
+    },
+    "error": null
+  },
+  {
+    "scenario": "react-features",
+    "exit": 0,
+    "status": "success",
+    "steps": 5,
+    "model_calls": 10,
+    "seconds": 29,
+    "truth": {
+      "version": "v19.3.0",
+      "sha": "1d34f91dfde6bba84d08b683aaba164c7194dacb",
+      "author": "eps1lon"
+    },
+    "grade": {
+      "version": true,
+      "tag": true,
+      "author": true,
+      "pass": true
+    },
+    "error": null
+  },
+  {
+    "scenario": "vscode-som",
+    "exit": 0,
+    "status": "success",
+    "steps": 6,
+    "model_calls": 13,
+    "seconds": 122,
+    "truth": {
+      "version": "1.140.0",
+      "sha": "07f806f999227108933c2e30515b26eecc1fda74",
+      "author": "Yoyokrazy"
+    },
+    "grade": {
+      "version": true,
+      "tag": true,
+      "author": true,
+      "pass": true
+    },
+    "error": null
+  }
+]

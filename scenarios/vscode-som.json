@@ -1,0 +1,44 @@
+{
+  "repository": "microsoft/vscode",
+  "latest_release": {
+    "version": "1.140.0",
+    "tag": "07f806f",
+    "author": "Yoyokrazy",
+    "title": null,
+    "published": "yesterday",
+    "marked_latest": true,
+    "release_notes_summary": "https://code.visualstudio.com/updates/v1_140",
+    "assets": [
+      {
+        "name": "Source code (zip)",
+        "download_url": "https://github.com/microsoft/vscode/releases/download/1.140.0/Source code (zip)"
+      },
+      {
+        "name": "Source code (tar.gz)",
+        "download_url": "https://github.com/microsoft/vscode/releases/download/1.140.0/Source code (tar.gz)"
+      }
+    ]
+  },
+  "run": {
+    "status": "success",
+    "reason": null,
+    "source_url": "https://github.com/microsoft/vscode/releases",
+    "steps": 6,
+    "model_calls": 13,
+    "model_usage": {
+      "gemini-3.7-flash": 1,
+      "gemini-3.5-flash-lite": 6
+    },
+    "grounding": "som",
+    "duration_s": 121.6,
+    "confidence": "high",
+    "extractor_issues": null,
+    "verification": {
+      "version": true,
+      "tag": true,
+      "author": true,
+      "repository": true
+    },
+    "trace_dir": "runs/20261001-230713"
+  }
+}

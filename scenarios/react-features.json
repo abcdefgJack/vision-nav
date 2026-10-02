@@ -1,0 +1,45 @@
+{
+  "repository": "react/react",
+  "latest_release": {
+    "version": "v19.3.0",
+    "tag": "1d34f91",
+    "author": "eps1lon",
+    "title": "19.3.0 (September 9, 2026)",
+    "published": "this 3 weeks ago",
+    "marked_latest": true,
+    "release_notes_summary": "This release introduces new React and React DOM features, including ViewTransition APIs, Fragment Refs support, browser() API for server rendering, along with notable changes and various Fast Refresh and Performance Track fixes.",
+    "assets": [
+      {
+        "name": "Source code (zip)",
+        "download_url": "https://github.com/react/react/releases/download/v19.3.0/Source code (zip)"
+      },
+      {
+        "name": "Source code (tar.gz)",
+        "download_url": "https://github.com/react/react/releases/download/v19.3.0/Source code (tar.gz)"
+      }
+    ]
+  },
+  "answer": "The latest React release 19.3.0 includes features such as ViewTransition APIs for animations, Fragment Refs for composable platform behavior, a new browser() react-dom API for server rendering, Enable Trusted Types API integration, and various bug fixes and improvements for Fast Refresh and Performance Tracks.",
+  "run": {
+    "status": "success",
+    "reason": null,
+    "source_url": "https://github.com/react/react/releases",
+    "steps": 5,
+    "model_calls": 10,
+    "model_usage": {
+      "gemini-2.5-flash": 1,
+      "gemini-3.5-flash-lite": 5
+    },
+    "grounding": "som",
+    "duration_s": 28.1,
+    "confidence": "high",
+    "extractor_issues": null,
+    "verification": {
+      "version": true,
+      "tag": true,
+      "author": true,
+      "repository": true
+    },
+    "trace_dir": "runs/20261001-230644"
+  }
+}

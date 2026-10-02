@@ -1,0 +1,35 @@
+[
+  {
+    "scenario": "openclaw-coords",
+    "exit": 0,
+    "status": "success",
+    "steps": 5,
+    "model_calls": 18,
+    "seconds": 234,
+    "truth": {
+      "version": "v2026.9.7",
+      "sha": "c074824a27c96d3983043f9eeb33823cd1772d8c",
+      "author": "github-actions[bot]"
+    },
+    "grade": {
+      "version": true,
+      "tag": true,
+      "author": true,
+      "pass": true
+    },
+    "error": null
+  },
+  {
+    "scenario": "no-releases",
+    "exit": 2,
+    "status": "failed",
+    "steps": 5,
+    "model_calls": 14,
+    "seconds": 108,
+    "truth": null,
+    "grade": {
+      "pass": true
+    },
+    "error": null
+  }
+]

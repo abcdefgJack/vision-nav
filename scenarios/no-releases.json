@@ -1,0 +1,20 @@
+{
+  "run": {
+    "status": "failed",
+    "reason": "agent reported failure: The repository torvalds/linux does not have any GitHub releases published, making it impossible to read a release marked as Latest.",
+    "source_url": "https://github.com/torvalds/linux/releases",
+    "steps": 5,
+    "model_calls": 14,
+    "model_usage": {
+      "gemini-2.5-flash": 1,
+      "gemini-3.7-flash": 2,
+      "gemini-3.5-flash-lite": 2
+    },
+    "grounding": "som",
+    "duration_s": 107.5,
+    "confidence": null,
+    "extractor_issues": null,
+    "verification": null,
+    "trace_dir": "runs/20261001-230200"
+  }
+}

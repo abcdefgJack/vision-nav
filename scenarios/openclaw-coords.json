@@ -1,0 +1,53 @@
+{
+  "repository": "openclaw/openclaw",
+  "latest_release": {
+    "version": "v2026.9.7",
+    "tag": "c074824",
+    "author": "github-actions",
+    "title": "openclaw 2026.9.7",
+    "published": "2 days ago",
+    "marked_latest": true,
+    "release_notes_summary": "OpenClaw v2026.9.7 includes 518 direct commits, 2,818 pull requests, and 334 contributors. The release notes and changelog are provided in two formats: release notes formatted for people with expandable sections, and changelog in plain Markdown for AI agents and tools.",
+    "assets": [
+      {
+        "name": "latest.json",
+        "download_url": "https://github.com/openclaw/openclaw/releases/download/v2026.9.7/latest.json"
+      },
+      {
+        "name": "OpenClaw-2026.9.7-arm64.dmg",
+        "download_url": "https://github.com/openclaw/openclaw/releases/download/v2026.9.7/OpenClaw-2026.9.7-arm64.dmg"
+      },
+      {
+        "name": "OpenClaw-2026.9.7-arm64.dSYM.zip",
+        "download_url": "https://github.com/openclaw/openclaw/releases/download/v2026.9.7/OpenClaw-2026.9.7-arm64.dSYM.zip"
+      },
+      {
+        "name": "OpenClaw-2026.9.7-arm64.zip",
+        "download_url": "https://github.com/openclaw/openclaw/releases/download/v2026.9.7/OpenClaw-2026.9.7-arm64.zip"
+      }
+    ]
+  },
+  "run": {
+    "status": "success",
+    "reason": null,
+    "source_url": "https://github.com/openclaw/openclaw/releases/tag/v2026.9.7",
+    "steps": 5,
+    "model_calls": 18,
+    "model_usage": {
+      "gemini-flash-latest": 3,
+      "gemini-3.7-flash": 2,
+      "gemini-3.5-flash-lite": 1
+    },
+    "grounding": "coords",
+    "duration_s": 233.9,
+    "confidence": "high",
+    "extractor_issues": null,
+    "verification": {
+      "version": true,
+      "tag": true,
+      "author": true,
+      "repository": true
+    },
+    "trace_dir": "runs/20261001-225806"
+  }
+}

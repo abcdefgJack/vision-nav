@@ -1,0 +1,22 @@
+[
+  {
+    "scenario": "openclaw-prompt",
+    "exit": 0,
+    "status": "success",
+    "steps": 9,
+    "model_calls": 23,
+    "seconds": 277,
+    "truth": {
+      "version": "v2026.9.7",
+      "sha": "c074824a27c96d3983043f9eeb33823cd1772d8c",
+      "author": "github-actions[bot]"
+    },
+    "grade": {
+      "version": true,
+      "tag": true,
+      "author": true,
+      "pass": true
+    },
+    "error": null
+  }
+]
